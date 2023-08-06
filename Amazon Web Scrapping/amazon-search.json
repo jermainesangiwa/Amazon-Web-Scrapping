@@ -1,0 +1,882 @@
+[
+  {
+    "Title": "ASUS Chromebook Vibe C55 Flip, Cloud",
+    "Price": "$699.99",
+    "ProductURL": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyOTExODIzNTEwODg1Mjg2OjE2OTExNzY5NjE6c3BfYXRmOjMwMDAyNTU1NjQ2MjkwMjo6MDo6&url=%2FASUS-Chromebook-i5-1135G7-Processor-CX5501FEA-AS562T%2Fdp%2FB0BSP4ZMGB%2Fref%3Dsr_1_1_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1691176961%26sr%3D8-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+    "ImageURL": "https://m.media-amazon.com/images/I/61+1SWHs9uL._AC_UY218_.jpg 1x",
+    "Brand": "ASUS",
+    "Rating": "3.4 out of 5 stars"
+  },
+  {
+    "Title": "Acer Nitro 5 AN515-57-79TD",
+    "Price": "$829.95",
+    "ProductURL": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyOTExODIzNTEwODg1Mjg2OjE2OTExNzY5NjE6c3BfYXRmOjIwMDA1Mzg3NDgyMDE5ODo6MDo6&url=%2FAcer-AN515-57-79TD-i7-11800H-GeForce-Keyboard%2Fdp%2FB09R65RN43%2Fref%3Dsr_1_2_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1691176961%26sr%3D8-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+    "ImageURL": "https://m.media-amazon.com/images/I/81lDOtJRTkL._AC_UY218_.jpg 1x",
+    "Brand": "Acer",
+    "Rating": "4.4 out of 5 stars"
+  },
+  {
+    "Title": "ASUS TUF",
+    "Price": "$699.99",
+    "ProductURL": "https://www.amazon.com/ASUS-Display-i5-11400H-Processor-FX506HF-ES51/dp/B0BWHJQMKH/ref=ice_ac_b_dpb?keywords=gaming+laptop&qid=1691176961&sr=8-3",
+    "ImageURL": "https://m.media-amazon.com/images/I/91aWfctUptL._AC_UY218_.jpg 1x",
+    "Brand": "ASUS",
+    "Rating": "4.4 out of 5 stars"
+  },
+  {
+    "Title": "Acer Nitro 5 AN515-58-57Y8",
+    "Price": "$739.99",
+    "ProductURL": "https://www.amazon.com/AN515-58-57Y8-i5-12500H-GeForce-Display-Keyboard/dp/B0BSLWGFXD/ref=sr_1_4?keywords=gaming+laptop&qid=1691176961&sr=8-4",
+    "ImageURL": "https://m.media-amazon.com/images/I/71ctRE34RuL._AC_UY218_.jpg 1x",
+    "Brand": "Acer",
+    "Rating": "4.4 out of 5 stars"
+  },
+  {
+    "Title": "Acer Nitro 17",
+    "Price": "$1,149.99",
+    "ProductURL": "https://www.amazon.com/Octa-Core-GeForce-Display-Backlit-AN17-41-R7G3/dp/B0BTQ61Z6D/ref=sr_1_5?keywords=gaming+laptop&qid=1691176961&sr=8-5",
+    "ImageURL": "https://m.media-amazon.com/images/I/711+0tgn+6L._AC_UY218_.jpg 1x",
+    "Brand": "Acer",
+    "Rating": "4.4 out of 5 stars"
+  },
+  {
+    "Title": "ASUS ROG Strix G15 (2022)",
+    "Price": "$999.99",
+    "ProductURL": "https://www.amazon.com/ASUS-ROG-Strix-Gaming-Laptop/dp/B0C25TM3JW/ref=sr_1_6?keywords=gaming+laptop&qid=1691176961&sr=8-6",
+    "ImageURL": "https://m.media-amazon.com/images/I/71OyrTkxpGL._AC_UY218_.jpg 1x",
+    "Brand": "ASUS",
+    "Rating": "4.6 out of 5 stars"
+  },
+  {
+    "Title": "Lenovo Ideapad",
+    "Price": "$1,239.00",
+    "ProductURL": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyOTExODIzNTEwODg1Mjg2OjE2OTExNzY5NjE6c3BfbXRmOjMwMDAxODQ2OTUxNjAwMjo6MDo6&url=%2FLenovo-Ideapad-GeForce-Backlit-Mousepad%2Fdp%2FB0C9ZSJLDL%2Fref%3Dsr_1_7_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1691176961%26sr%3D8-7-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1",
+    "ImageURL": "https://m.media-amazon.com/images/I/81+kEZ3HkZL._AC_UY218_.jpg 1x",
+    "Brand": "Lenovo",
+    "Rating": "4.5 out of 5 stars"
+  },
+  {
+    "Title": "Lenovo Legion 5 15.6\" FHD",
+    "Price": "$468.43",
+    "ProductURL": "https://www.amazon.com/Lenovo-Legion-Computer-GeForce-Backlit/dp/B09J7X4DWY/ref=sr_1_8?keywords=gaming+laptop&qid=1691176961&sr=8-8",
+    "ImageURL": "https://m.media-amazon.com/images/I/81ZSX07BzuL._AC_UY218_.jpg 1x",
+    "Brand": "Lenovo",
+    "Rating": "1.8 out of 5 stars"
+  },
+  {
+    "Title": "Lenovo IdeaPad",
+    "Price": "$625.35",
+    "ProductURL": "https://www.amazon.com/Lenovo-IdeaPad-Essential-Computer-Graphics/dp/B09RND1LP2/ref=sr_1_9?keywords=gaming+laptop&qid=1691176961&sr=8-9",
+    "ImageURL": "https://m.media-amazon.com/images/I/81zcUyiNcUL._AC_UY218_.jpg 1x",
+    "Brand": "Lenovo",
+    "Rating": "4.3 out of 5 stars"
+  },
+  {
+    "Title": "ASUS TUF",
+    "Price": "$879.00",
+    "ProductURL": "https://www.amazon.com/ASUS-IPS-Type-i5-11400H-Processor-FX506HEB-RS53/dp/B0C4Q84N34/ref=sr_1_10?keywords=gaming+laptop&qid=1691176961&sr=8-10",
+    "ImageURL": "https://m.media-amazon.com/images/I/91aWfctUptL._AC_UY218_.jpg 1x",
+    "Brand": "ASUS",
+    "Rating": "4.5 out of 5 stars"
+  },
+  {
+    "Title": "HP - Victus 15.6\" Full HD 144Hz",
+    "Price": "N/A",
+    "ProductURL": "https://www.amazon.com/HP-i5-13420H-GeForce-3050-512GB-Performance/dp/B0C4YX39T7/ref=sr_1_11?keywords=gaming+laptop&qid=1691176961&sr=8-11",
+    "ImageURL": "https://m.media-amazon.com/images/I/71gfWwWhd4L._AC_UY218_.jpg 1x",
+    "Brand": "HP",
+    "Rating": "N/A"
+  },
+  {
+    "Title": "ANTEMPER 14.1 Inch",
+    "Price": "$349.99",
+    "ProductURL": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyOTExODIzNTEwODg1Mjg2OjE2OTExNzY5NjE6c3BfbXRmOjMwMDAyMzMxNDI1NDEwMjo6MDo6&url=%2FANTEMPER-Windows-Celeron-Display-Bluetooth%2Fdp%2FB0CBTJMNPR%2Fref%3Dsr_1_12_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1691176961%26sr%3D8-12-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1",
+    "ImageURL": "https://m.media-amazon.com/images/I/71qLlQa3lVL._AC_UY218_.jpg 1x",
+    "Brand": "ANTEMPER",
+    "Rating": "N/A"
+  },
+  {
+    "Title": "Acer Nitro 17",
+    "Price": "$1,009.99",
+    "ProductURL": "https://www.amazon.com/Octa-Core-GeForce-Display-Backlit-AN17-41-R6L9/dp/B0BTQS4N1F/ref=sr_1_13?keywords=gaming+laptop&qid=1691176961&sr=8-13",
+    "ImageURL": "https://m.media-amazon.com/images/I/711+0tgn+6L._AC_UY218_.jpg 1x",
+    "Brand": "Acer",
+    "Rating": "4.2 out of 5 stars"
+  },
+  {
+    "Title": "Acer Nitro 17",
+    "Price": "$1,199.99",
+    "ProductURL": "https://www.amazon.com/Octa-Core-GeForce-Display-Backlit-AN17-41-R8N5/dp/B0BZST2MBK/ref=sr_1_14?keywords=gaming+laptop&qid=1691176961&sr=8-14",
+    "ImageURL": "https://m.media-amazon.com/images/I/711+0tgn+6L._AC_UY218_.jpg 1x",
+    "Brand": "Acer",
+    "Rating": "4.2 out of 5 stars"
+  },
+  {
+    "Title": "MSI Cyborg 15",
+    "Price": "$769.00",
+    "ProductURL": "https://www.amazon.com/MSI-Cyborg-Gaming-Laptop-A12UCX-276US/dp/B0C5JQZ8L8/ref=sr_1_15?keywords=gaming+laptop&qid=1691176961&sr=8-15",
+    "ImageURL": "https://m.media-amazon.com/images/I/81qv4biJ5dL._AC_UY218_.jpg 1x",
+    "Brand": "MSI",
+    "Rating": "3.0 out of 5 stars"
+  },
+  {
+    "Title": "ASUS",
+    "Price": "$1,609.90",
+    "ProductURL": "https://www.amazon.com/ASUS-Laptop-Gamer-ROG-Strix/dp/B0CBNY3MRJ/ref=sr_1_16?keywords=gaming+laptop&qid=1691176961&sr=8-16",
+    "ImageURL": "https://m.media-amazon.com/images/I/61i5M7y9SNL._AC_UY218_.jpg 1x",
+    "Brand": "ASUS",
+    "Rating": "5.0 out of 5 stars"
+  },
+  {
+    "Title": "Lenovo",
+    "Price": "$1,189.00",
+    "ProductURL": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyOTExODIzNTEwODg1Mjg2OjE2OTExNzY5NjE6c3BfbXRmOjIwMDE2ODkyODUyMzE5ODo6MDo6&url=%2FLenovo-IdeaPad-i7-12700H-Thunderbolt-Mousepad%2Fdp%2FB0C33VY37K%2Fref%3Dsr_1_17_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1691176961%26sr%3D8-17-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1",
+    "ImageURL": "https://m.media-amazon.com/images/I/71QHezPMwzL._AC_UY218_.jpg 1x",
+    "Brand": "Lenovo",
+    "Rating": "4.3 out of 5 stars"
+  },
+  {
+    "Title": "MSI GV15 15.6\" 144Hz",
+    "Price": "$647.95",
+    "ProductURL": "https://www.amazon.com/MSI-GV15-144Hz-Gaming-Laptop/dp/B09S4NBX1Z/ref=sr_1_18?keywords=gaming+laptop&qid=1691176961&sr=8-18",
+    "ImageURL": "https://m.media-amazon.com/images/I/81cP2qZckeL._AC_UY218_.jpg 1x",
+    "Brand": "MSI",
+    "Rating": "4.5 out of 5 stars"
+  },
+  {
+    "Title": "ASUS TUF",
+    "Price": "$664.99",
+    "ProductURL": "https://www.amazon.com/ASUS-IPS-Type-Display-Keyboard-FA706IH-RS53/dp/B0B728K77Q/ref=sr_1_19?keywords=gaming+laptop&qid=1691176961&sr=8-19",
+    "ImageURL": "https://m.media-amazon.com/images/I/71btnDXQxaL._AC_UY218_.jpg 1x",
+    "Brand": "ASUS",
+    "Rating": "4.0 out of 5 stars"
+  },
+  {
+    "Title": "MSI Thin GF63 15.6\" 144Hz",
+    "Price": "$894.99",
+    "ProductURL": "https://www.amazon.com/MSI-Thin-144Hz-Gaming-Laptop/dp/B0BT3CD75G/ref=sr_1_20?keywords=gaming+laptop&qid=1691176961&sr=8-20",
+    "ImageURL": "https://m.media-amazon.com/images/I/71JqyTBiXrL._AC_UY218_.jpg 1x",
+    "Brand": "MSI",
+    "Rating": "4.3 out of 5 stars"
+  },
+  {
+    "Title": "ASUS TUF",
+    "Price": "$1,209.00",
+    "ProductURL": "https://www.amazon.com/ASUS-Display-GeForce-Windows-FA707NU-DS74/dp/B0BWH9XCHC/ref=sr_1_21?keywords=gaming+laptop&qid=1691176961&sr=8-21",
+    "ImageURL": "https://m.media-amazon.com/images/I/71dHv-xGSoL._AC_UY218_.jpg 1x",
+    "Brand": "ASUS",
+    "Rating": "4.2 out of 5 stars"
+  },
+  {
+    "Title": "HP 2022 Victus 15.6\" FHD 144Hz",
+    "Price": "$849.00",
+    "ProductURL": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyOTExODIzNTEwODg1Mjg2OjE2OTExNzY5NjE6c3BfYnRmOjMwMDAwNDMyNjcwNDYwMjo6MDo6&url=%2FHP-Victus-i5-12450H-Graphics-Keyboard%2Fdp%2FB0BYH9J7K1%2Fref%3Dsr_1_22_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1691176961%26sr%3D8-22-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1",
+    "ImageURL": "https://m.media-amazon.com/images/I/71xBqZad3rL._AC_UY218_.jpg 1x",
+    "Brand": "HP",
+    "Rating": "4.5 out of 5 stars"
+  },
+  {
+    "Title": "HP 2022 Victus 15.6\" FHD 144Hz",
+    "Price": "$949.00",
+    "ProductURL": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNDkxOTM1ODUwNzI4MjUwOjE2OTExNzY5Njk6c3BfYXRmX25leHQ6MzAwMDA0MzI2NzA0NTAyOjowOjo&url=%2FHP-Victus-i5-12450H-Keyboard-Snowbell%2Fdp%2FB0C6TFHBY6%2Fref%3Dsr_1_17_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1691176969%26sr%3D8-17-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGZfbmV4dA%26psc%3D1",
+    "ImageURL": "https://m.media-amazon.com/images/I/71xBqZad3rL._AC_UY218_.jpg 1x",
+    "Brand": "HP",
+    "Rating": "4.5 out of 5 stars"
+  },
+  {
+    "Title": "Lenovo Ideapad",
+    "Price": "$1,429.00",
+    "ProductURL": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNDkxOTM1ODUwNzI4MjUwOjE2OTExNzY5Njk6c3BfYXRmX25leHQ6MzAwMDE4NDY5NTE1OTAyOjowOjo&url=%2FLenovo-Ideapad-GeForce-Backlit-Mousepad%2Fdp%2FB0C9ZV3211%2Fref%3Dsr_1_18_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1691176969%26sr%3D8-18-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGZfbmV4dA%26psc%3D1",
+    "ImageURL": "https://m.media-amazon.com/images/I/81+kEZ3HkZL._AC_UY218_.jpg 1x",
+    "Brand": "Lenovo",
+    "Rating": "4.5 out of 5 stars"
+  },
+  {
+    "Title": "HP 2022 Victus",
+    "Price": "$757.90",
+    "ProductURL": "https://www.amazon.com/HP-15-6-Inch-Display-i5-12450H-GeForce/dp/B0B7WVP86S/ref=sr_1_19?keywords=gaming+laptop&qid=1691176969&sr=8-19",
+    "ImageURL": "https://m.media-amazon.com/images/I/91NAVqwir8L._AC_UY218_.jpg 1x",
+    "Brand": "HP",
+    "Rating": "4.2 out of 5 stars"
+  },
+  {
+    "Title": "ASUS TUF F17",
+    "Price": "$779.00",
+    "ProductURL": "https://www.amazon.com/ASUS-IPS-Type-i5-11400H-Processor-FX706HCB-ES51/dp/B09SVQY3PF/ref=sr_1_20?keywords=gaming+laptop&qid=1691176969&sr=8-20",
+    "ImageURL": "https://m.media-amazon.com/images/I/81NnNIn99mL._AC_UY218_.jpg 1x",
+    "Brand": "ASUS",
+    "Rating": "4.5 out of 5 stars"
+  },
+  {
+    "Title": "MSI GF63 Thin 11SC-693 15.6\"",
+    "Price": "$600.00",
+    "ProductURL": "https://www.amazon.com/MSI-GF63-Thin-11SC-693-i5-11400H/dp/B0BMWGFWNX/ref=sr_1_21?keywords=gaming+laptop&qid=1691176969&sr=8-21",
+    "ImageURL": "https://m.media-amazon.com/images/I/71BCum1YVzL._AC_UY218_.jpg 1x",
+    "Brand": "MSI",
+    "Rating": "4.7 out of 5 stars"
+  },
+  {
+    "Title": "Lenovo Ideapad",
+    "Price": "$1,429.00",
+    "ProductURL": "https://www.amazon.com/Lenovo-Ideapad-GeForce-Backlit-Mousepad/dp/B0C9ZV3211/ref=sr_1_22?keywords=gaming+laptop&qid=1691176969&sr=8-22",
+    "ImageURL": "https://m.media-amazon.com/images/I/81+kEZ3HkZL._AC_UY218_.jpg 1x",
+    "Brand": "Lenovo",
+    "Rating": "4.5 out of 5 stars"
+  },
+  {
+    "Title": "ASUS ROG Strix G17 (2023)",
+    "Price": "$2,099.99",
+    "ProductURL": "https://www.amazon.com/ASUS-Gaming-GeForce-Windows-G713PI-DS94/dp/B0BT5SF8X4/ref=sr_1_23?keywords=gaming+laptop&qid=1691176969&sr=8-23",
+    "ImageURL": "https://m.media-amazon.com/images/I/71HVf59nBSL._AC_UY218_.jpg 1x",
+    "Brand": "ASUS",
+    "Rating": "4.0 out of 5 stars"
+  },
+  {
+    "Title": "ANMESC",
+    "Price": "$359.99",
+    "ProductURL": "https://www.amazon.com/ANMESC-Quad-Core-Processors-Computers-Bluetooth/dp/B0C9PZGDDW/ref=sr_1_24?keywords=gaming+laptop&qid=1691176969&sr=8-24",
+    "ImageURL": "https://m.media-amazon.com/images/I/61e5ozXtN6L._AC_UY218_.jpg 1x",
+    "Brand": "ANMESC",
+    "Rating": "5.0 out of 5 stars"
+  },
+  {
+    "Title": "jumper 16 Inch",
+    "Price": "$379.96",
+    "ProductURL": "https://www.amazon.com/jumper-Quad-Core-1920x1200-Computer-Speakers/dp/B0C6K7CMPN/ref=sr_1_25?keywords=gaming+laptop&qid=1691176969&sr=8-25",
+    "ImageURL": "https://m.media-amazon.com/images/I/81v6g1MtqSL._AC_UY218_.jpg 1x",
+    "Brand": "jumper",
+    "Rating": "4.4 out of 5 stars"
+  },
+  {
+    "Title": "SGIN",
+    "Price": "$299.99",
+    "ProductURL": "https://www.amazon.com/SGIN-Display%EF%BC%8C4GB-Processor-Dual-Brand-Expansion/dp/B0C9MHBVG3/ref=sr_1_26?keywords=gaming+laptop&qid=1691176969&sr=8-26",
+    "ImageURL": "https://m.media-amazon.com/images/I/71KXfAJtkLL._AC_UY218_.jpg 1x",
+    "Brand": "SGIN",
+    "Rating": "4.4 out of 5 stars"
+  },
+  {
+    "Title": "ZWYING",
+    "Price": "$459.88",
+    "ProductURL": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNDkxOTM1ODUwNzI4MjUwOjE2OTExNzY5Njk6c3BfbXRmOjIwMDE2ODkwNzc1NjA5ODo6MDo6&url=%2FZWYING-Touchscreen-Convertible-Notebook-Function%2Fdp%2FB07WVBQQXC%2Fref%3Dsr_1_27_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1691176969%26sr%3D8-27-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1",
+    "ImageURL": "https://m.media-amazon.com/images/I/71i7WN6cISL._AC_UY218_.jpg 1x",
+    "Brand": "ZWYING",
+    "Rating": "5.0 out of 5 stars"
+  },
+  {
+    "Title": "GEODMAER 65% Wireless Mechanical",
+    "Price": "$35.97",
+    "ProductURL": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNDkxOTM1ODUwNzI4MjUwOjE2OTExNzY5Njk6c3BfbXRmOjMwMDAyMTc0MDEyNDAwMjo6MDo6&url=%2FGEODMAER-Wireless-Mechanical-Keyboard-Bluetooth%2Fdp%2FB0C7VRFZ3C%2Fref%3Dsr_1_28_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1691176969%26sr%3D8-28-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1",
+    "ImageURL": "https://m.media-amazon.com/images/I/61sYhHayKsL._AC_UY218_.jpg 1x",
+    "Brand": "GEODMAER",
+    "Rating": "4.4 out of 5 stars"
+  },
+  {
+    "Title": "Auusda",
+    "Price": "$527.77",
+    "ProductURL": "https://www.amazon.com/Auusda-Computer-1920x1080-Keyboard-Fingerprint/dp/B0C1NGKQ8T/ref=sr_1_29?keywords=gaming+laptop&qid=1691176969&sr=8-29",
+    "ImageURL": "https://m.media-amazon.com/images/I/71K2clsA06L._AC_UY218_.jpg 1x",
+    "Brand": "Auusda",
+    "Rating": "4.3 out of 5 stars"
+  },
+  {
+    "Title": "Gateway 2023 15\" HD IPS",
+    "Price": "$149.99",
+    "ProductURL": "https://www.amazon.com/Gateway-15-Quad-Core-Processor-Ultra-Fast/dp/B0C9G4W2NK/ref=sr_1_30?keywords=gaming+laptop&qid=1691176969&sr=8-30",
+    "ImageURL": "https://m.media-amazon.com/images/I/81jGGIJTgJL._AC_UY218_.jpg 1x",
+    "Brand": "Gateway",
+    "Rating": "4.5 out of 5 stars"
+  },
+  {
+    "Title": "GIGABYTE G5 KF: 15.6\" FHD 1920x1080 144Hz, NVIDIA GeForce RTX 4060",
+    "Price": "$899.00",
+    "ProductURL": "https://www.amazon.com/GIGABYTE-G5-1920x1080-i5-12500H-KF-E3US333SH/dp/B0BVRGF3MR/ref=sr_1_31?keywords=gaming+laptop&qid=1691176969&sr=8-31",
+    "ImageURL": "https://m.media-amazon.com/images/I/71tgmKoXApL._AC_UY218_.jpg 1x",
+    "Brand": "GIGABYTE",
+    "Rating": "3.9 out of 5 stars"
+  },
+  {
+    "Title": "【Win 11 Pro/Office 2019】16\"",
+    "Price": "$399.99",
+    "ProductURL": "https://www.amazon.com/2019%E3%80%9116-Ultra-narrow-2560x1600-N5095-Processor/dp/B0BMXF45H5/ref=sr_1_32?keywords=gaming+laptop&qid=1691176969&sr=8-32",
+    "ImageURL": "https://m.media-amazon.com/images/I/81qRrRbt1fL._AC_UY218_.jpg 1x",
+    "Brand": "【Win",
+    "Rating": "4.5 out of 5 stars"
+  },
+  {
+    "Title": "Acer Aspire 3 A315-24P-R7VH Slim",
+    "Price": "$289.99",
+    "ProductURL": "https://www.amazon.com/A315-24P-R7VH-Display-Quad-Core-Processor-Graphics/dp/B0BS4BP8FB/ref=sr_1_33?keywords=gaming+laptop&qid=1691176969&sr=8-33",
+    "ImageURL": "https://m.media-amazon.com/images/I/71+1lOl1Y1L._AC_UY218_.jpg 1x",
+    "Brand": "Acer",
+    "Rating": "4.3 out of 5 stars"
+  },
+  {
+    "Title": "Acer Aspire 5 A515-46-R3CZ Slim",
+    "Price": "$419.99",
+    "ProductURL": "https://www.amazon.com/Acer-A515-46-R3CZ-Quad-Core-Processor-Fingerprint/dp/B09JPK5VJR/ref=sr_1_34?keywords=gaming+laptop&qid=1691176969&sr=8-34",
+    "ImageURL": "https://m.media-amazon.com/images/I/71FoZZ2mGtL._AC_UY218_.jpg 1x",
+    "Brand": "Acer",
+    "Rating": "4.5 out of 5 stars"
+  },
+  {
+    "Title": "SGIN 15.6 Inch",
+    "Price": "$399.99",
+    "ProductURL": "https://www.amazon.com/SGIN-Computer-Processor-1920x1080-Bluetooth/dp/B0C6LPKXCS/ref=sr_1_35?keywords=gaming+laptop&qid=1691176969&sr=8-35",
+    "ImageURL": "https://m.media-amazon.com/images/I/71pKB0qxadL._AC_UY218_.jpg 1x",
+    "Brand": "SGIN",
+    "Rating": "4.5 out of 5 stars"
+  },
+  {
+    "Title": "Acer Aspire 5 Slim",
+    "Price": "$999.99",
+    "ProductURL": "https://www.amazon.com/i7-1355U-GeForce-Thunderbolt-Backlit-A515-58GM-76KW/dp/B0BW9Q7SLZ/ref=sr_1_36?keywords=gaming+laptop&qid=1691176969&sr=8-36",
+    "ImageURL": "https://m.media-amazon.com/images/I/71WzkuLZGFL._AC_UY218_.jpg 1x",
+    "Brand": "Acer",
+    "Rating": "4.3 out of 5 stars"
+  },
+  {
+    "Title": "CHUWI CoreBook XPro",
+    "Price": "$499.99",
+    "ProductURL": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNDkxOTM1ODUwNzI4MjUwOjE2OTExNzY5Njk6c3BfYnRmOjMwMDAyMjUzNTM5MDMwMjo6MDo6&url=%2FCHUWI-Processor-1920X1080-CoreBook-Xpro%2Fdp%2FB09C235SHT%2Fref%3Dsr_1_37_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1691176969%26sr%3D8-37-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1",
+    "ImageURL": "https://m.media-amazon.com/images/I/71uWuADEDOL._AC_UY218_.jpg 1x",
+    "Brand": "CHUWI",
+    "Rating": "4.1 out of 5 stars"
+  },
+  {
+    "Title": "GEODMAER",
+    "Price": "$69.97",
+    "ProductURL": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNDkxOTM1ODUwNzI4MjUwOjE2OTExNzY5Njk6c3BfYnRmOjMwMDAyMzQ0MDExNTQwMjo6MDo6&url=%2FGEODMAER-Laptop-Cooling-Pad-Stand%2Fdp%2FB0C4SLYBYB%2Fref%3Dsr_1_38_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1691176969%26sr%3D8-38-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1",
+    "ImageURL": "https://m.media-amazon.com/images/I/61oE3kznYKL._AC_UY218_.jpg 1x",
+    "Brand": "GEODMAER",
+    "Rating": "N/A"
+  },
+  {
+    "Title": "SGIN 15.6 Inch 12GB DDR4 512GB SSD (TF 512GB)",
+    "Price": "$358.99",
+    "ProductURL": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxNzczOTg3MzA4MzUwODU3OjE2OTExNzY5NzU6c3BfYXRmX25leHQ6MzAwMDIxNzUwODY5NjAyOjowOjo&url=%2FSGIN-Windows-Processor-1920x1080-Bluetooth%2Fdp%2FB0C4SK7BGW%2Fref%3Dsr_1_33_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1691176975%26sr%3D8-33-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGZfbmV4dA%26psc%3D1",
+    "ImageURL": "https://m.media-amazon.com/images/I/61T5E+IDImL._AC_UY218_.jpg 1x",
+    "Brand": "SGIN",
+    "Rating": "5.0 out of 5 stars"
+  },
+  {
+    "Title": "KeiBn Upgraded",
+    "Price": "$32.98",
+    "ProductURL": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxNzczOTg3MzA4MzUwODU3OjE2OTExNzY5NzU6c3BfYXRmX25leHQ6MzAwMDE0NjYzMzY3NjAyOjowOjo&url=%2FKeiBn-Upgraded-Cooling-15-6-17-3-Stand-Blue%2Fdp%2FB0CBSQN1M2%2Fref%3Dsr_1_34_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1691176975%26sr%3D8-34-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGZfbmV4dA%26psc%3D1",
+    "ImageURL": "https://m.media-amazon.com/images/I/71UmR+esQrL._AC_UY218_.jpg 1x",
+    "Brand": "KeiBn",
+    "Rating": "4.9 out of 5 stars"
+  },
+  {
+    "Title": "HP 2023 Newest 15.6 Inch Touchscreen",
+    "Price": "$548.99",
+    "ProductURL": "https://www.amazon.com/HP-Newest-15-6-Touchscreen-Laptop/dp/B0C68PDMDJ/ref=sr_1_35?keywords=gaming+laptop&qid=1691176975&sr=8-35",
+    "ImageURL": "https://m.media-amazon.com/images/I/71SPgvYs2OL._AC_UY218_.jpg 1x",
+    "Brand": "HP",
+    "Rating": "4.7 out of 5 stars"
+  },
+  {
+    "Title": "2022 MSI GF63 Thin 15.6 inch FHD Display",
+    "Price": "N/A",
+    "ProductURL": "https://www.amazon.com/2022-MSI-Display-Gaming-Laptop/dp/B09SDYH9VG/ref=sr_1_36?keywords=gaming+laptop&qid=1691176975&sr=8-36",
+    "ImageURL": "https://m.media-amazon.com/images/I/41FsW0GGCrL._AC_UY218_.jpg 1x",
+    "Brand": "2022",
+    "Rating": "5.0 out of 5 stars"
+  },
+  {
+    "Title": "Acer Aspire 5 A515-56-347N Slim",
+    "Price": "$315.99",
+    "ProductURL": "https://www.amazon.com/Acer-Aspire-A515-56-347N-Slim-Laptop/dp/B0BL86VM7F/ref=sr_1_37?keywords=gaming+laptop&qid=1691176975&sr=8-37",
+    "ImageURL": "https://m.media-amazon.com/images/I/71pvhTrmZDL._AC_UY218_.jpg 1x",
+    "Brand": "Acer",
+    "Rating": "4.3 out of 5 stars"
+  },
+  {
+    "Title": "ASUS ROG Strix G16 (2023)",
+    "Price": "$1,328.96",
+    "ProductURL": "https://www.amazon.com/ASUS-ROG-Strix-Gaming-Laptop/dp/B0BV8H8HVD/ref=sr_1_38?keywords=gaming+laptop&qid=1691176975&sr=8-38",
+    "ImageURL": "https://m.media-amazon.com/images/I/71jTFnk7XiL._AC_UY218_.jpg 1x",
+    "Brand": "ASUS",
+    "Rating": "4.4 out of 5 stars"
+  },
+  {
+    "Title": "ASUS Vivobook 16X OLED",
+    "Price": "$1,592.99",
+    "ProductURL": "https://www.amazon.com/ASUS-Vivobook-Display-i9-13900H-K3605VU-ES94/dp/B0C484PGWB/ref=sr_1_39?keywords=gaming+laptop&qid=1691176975&sr=8-39",
+    "ImageURL": "https://m.media-amazon.com/images/I/71w6CQgdQHL._AC_UY218_.jpg 1x",
+    "Brand": "ASUS",
+    "Rating": "N/A"
+  },
+  {
+    "Title": "ASUS Vivobook",
+    "Price": "$189.99",
+    "ProductURL": "https://www.amazon.com/ASUS-Vivobook-Processor-Personal-L210MA-DS04/dp/B09VJYQW44/ref=sr_1_40?keywords=gaming+laptop&qid=1691176975&sr=8-40",
+    "ImageURL": "https://m.media-amazon.com/images/I/71pAjS2SNUL._AC_UY218_.jpg 1x",
+    "Brand": "ASUS",
+    "Rating": "4.1 out of 5 stars"
+  },
+  {
+    "Title": "HP OMEN",
+    "Price": "$1,289.00",
+    "ProductURL": "https://www.amazon.com/HP-IntelCore-i7-12700H-Processor-17-ck1020nr/dp/B0B1S7W9KG/ref=sr_1_41?keywords=gaming+laptop&qid=1691176975&sr=8-41",
+    "ImageURL": "https://m.media-amazon.com/images/I/713qMsf9+ML._AC_UY218_.jpg 1x",
+    "Brand": "HP",
+    "Rating": "3.6 out of 5 stars"
+  },
+  {
+    "Title": "ASUS Vivobook 15.6\" FHD",
+    "Price": "$469.00",
+    "ProductURL": "https://www.amazon.com/ASUS-Vivobook-i3-1215U-Windows-Accessory/dp/B0CC29T6V5/ref=sr_1_42?keywords=gaming+laptop&qid=1691176975&sr=8-42",
+    "ImageURL": "https://m.media-amazon.com/images/I/71FxdxK5rNL._AC_UY218_.jpg 1x",
+    "Brand": "ASUS",
+    "Rating": "4.3 out of 5 stars"
+  },
+  {
+    "Title": "Win 11 Pro 14 inches Convertible Creator",
+    "Price": "$419.99",
+    "ProductURL": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxNzczOTg3MzA4MzUwODU3OjE2OTExNzY5NzU6c3BfbXRmOjIwMDE2ODg0NDM1NjU5ODo6MDo6&url=%2FConvertible-High-Speed-Workstation-Backlight-Keyboard%2Fdp%2FB0C4LG3YFT%2Fref%3Dsr_1_43_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1691176975%26sr%3D8-43-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1",
+    "ImageURL": "https://m.media-amazon.com/images/I/71qVNc4zvjL._AC_UY218_.jpg 1x",
+    "Brand": "Win",
+    "Rating": "3.7 out of 5 stars"
+  },
+  {
+    "Title": "Ruzava/Aocwei 16\"",
+    "Price": "$339.99",
+    "ProductURL": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxNzczOTg3MzA4MzUwODU3OjE2OTExNzY5NzU6c3BfbXRmOjMwMDAwMzU4MzU5MDgwMjo6MDo6&url=%2FRuzava-Celeron-Windows-Cooling-Study-Black%2Fdp%2FB0C43KN8KM%2Fref%3Dsr_1_44_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1691176975%26sr%3D8-44-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1",
+    "ImageURL": "https://m.media-amazon.com/images/I/81pnk0k5IzL._AC_UY218_.jpg 1x",
+    "Brand": "Ruzava/Aocwei",
+    "Rating": "4.4 out of 5 stars"
+  },
+  {
+    "Title": "Acer Nitro 5 17.3'' FHD IPS 144Hz",
+    "Price": "$1,159.00",
+    "ProductURL": "https://www.amazon.com/i5-12500H-GeForce-Backlit-Thunderbolt-Mousepad/dp/B0C1BSDVLD/ref=sr_1_45?keywords=gaming+laptop&qid=1691176975&sr=8-45",
+    "ImageURL": "https://m.media-amazon.com/images/I/71AVDuCpTjL._AC_UY218_.jpg 1x",
+    "Brand": "Acer",
+    "Rating": "4.9 out of 5 stars"
+  },
+  {
+    "Title": "Lenovo IdeaPad 3 – (2023) - Everyday Notebook - Windows 11-14\" Full HD – 8GB Memory – 128GB Storage - Intel Core i3-1115G - Platinum Grey",
+    "Price": "$296.95",
+    "ProductURL": "https://www.amazon.com/Lenovo-IdeaPad-Everyday-Notebook-i3-1115G/dp/B0BWSJ3CB5/ref=sr_1_46?keywords=gaming+laptop&qid=1691176975&sr=8-46",
+    "ImageURL": "https://m.media-amazon.com/images/I/81sq-a+suJL._AC_UY218_.jpg 1x",
+    "Brand": "Lenovo",
+    "Rating": "4.5 out of 5 stars"
+  },
+  {
+    "Title": "ASUS ROG Strix G16 (2023)",
+    "Price": "$1,499.00",
+    "ProductURL": "https://www.amazon.com/ASUS-Gaming-Laptop-Nebula-Display/dp/B0BWH4H89H/ref=sr_1_47?keywords=gaming+laptop&qid=1691176975&sr=8-47",
+    "ImageURL": "https://m.media-amazon.com/images/I/819gjFWWnPL._AC_UY218_.jpg 1x",
+    "Brand": "ASUS",
+    "Rating": "4.4 out of 5 stars"
+  },
+  {
+    "Title": "HP Newest Victus",
+    "Price": "$799.00",
+    "ProductURL": "https://www.amazon.com/HP-Display-i5-12450H-Geforce-Keyboard/dp/B0BN5PDSLK/ref=sr_1_48?keywords=gaming+laptop&qid=1691176975&sr=8-48",
+    "ImageURL": "https://m.media-amazon.com/images/I/61p9aboj+bL._AC_UY218_.jpg 1x",
+    "Brand": "HP",
+    "Rating": "4.6 out of 5 stars"
+  },
+  {
+    "Title": "HP 2022 Victus 15.6\" FHD 144Hz",
+    "Price": "$849.00",
+    "ProductURL": "https://www.amazon.com/HP-Victus-i5-12450H-Graphics-Keyboard/dp/B0BYH9J7K1/ref=sr_1_49?keywords=gaming+laptop&qid=1691176975&sr=8-49",
+    "ImageURL": "https://m.media-amazon.com/images/I/71xBqZad3rL._AC_UY218_.jpg 1x",
+    "Brand": "HP",
+    "Rating": "4.5 out of 5 stars"
+  },
+  {
+    "Title": "ASUS VivoBook Thin and Light",
+    "Price": "$499.00",
+    "ProductURL": "https://www.amazon.com/ASUS-VivoBook-Display-i3-1005G1-Processor/dp/B09YBJBZSQ/ref=sr_1_50?keywords=gaming+laptop&qid=1691176975&sr=8-50",
+    "ImageURL": "https://m.media-amazon.com/images/I/81kW5RASyrL._AC_UY218_.jpg 1x",
+    "Brand": "ASUS",
+    "Rating": "4.5 out of 5 stars"
+  },
+  {
+    "Title": "Laptop",
+    "Price": "$189.99",
+    "ProductURL": "https://www.amazon.com/Windows-Display-Notebook-10000mAh-Battery/dp/B0C5QFM9F6/ref=sr_1_51?keywords=gaming+laptop&qid=1691176975&sr=8-51",
+    "ImageURL": "https://m.media-amazon.com/images/I/71m4QtzFI5L._AC_UY218_.jpg 1x",
+    "Brand": "Laptop",
+    "Rating": "N/A"
+  },
+  {
+    "Title": "MSI Bravo 15 15.6\" 144Hz",
+    "Price": "$786.45",
+    "ProductURL": "https://www.amazon.com/MSI-Bravo-144Hz-Gaming-Laptop/dp/B09YC2782X/ref=sr_1_52?keywords=gaming+laptop&qid=1691176975&sr=8-52",
+    "ImageURL": "https://m.media-amazon.com/images/I/711endgA14S._AC_UY218_.jpg 1x",
+    "Brand": "MSI",
+    "Rating": "4.4 out of 5 stars"
+  },
+  {
+    "Title": "Ruzava/Aocwei 14\"",
+    "Price": "$999.99",
+    "ProductURL": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxNzczOTg3MzA4MzUwODU3OjE2OTExNzY5NzU6c3BfYnRmOjMwMDAyNTQyMDY2MjIwMjo6MDo6&url=%2FRuzava-Windows-Cooling-Support-Study-Pink%2Fdp%2FB0B38CVCX8%2Fref%3Dsr_1_53_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1691176975%26sr%3D8-53-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1",
+    "ImageURL": "https://m.media-amazon.com/images/I/71b1EAk8tOL._AC_UY218_.jpg 1x",
+    "Brand": "Ruzava/Aocwei",
+    "Rating": "N/A"
+  },
+  {
+    "Title": "aiuouog Portable Monitor, 16 Inch 2.5K FHD Ultra HD USB C HDMI Second External Monitor for",
+    "Price": "$149.99",
+    "ProductURL": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxNzczOTg3MzA4MzUwODU3OjE2OTExNzY5NzU6c3BfYnRmOjMwMDAxNjQxMjg5MTkwMjo6MDo6&url=%2Faiuouog-Portable-Monitor-External-Computer%2Fdp%2FB0BK8MDBP8%2Fref%3Dsr_1_54_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1691176975%26sr%3D8-54-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1",
+    "ImageURL": "https://m.media-amazon.com/images/I/71pPqHxYosL._AC_UY218_.jpg 1x",
+    "Brand": "aiuouog",
+    "Rating": "3.8 out of 5 stars"
+  },
+  {
+    "Title": "Lenovo IdeaPad Flex 5-2023 - Touchscreen 2-in-1",
+    "Price": "$509.99",
+    "ProductURL": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NjgwMzUyMDAzMjQ3ODA6MTY5MTE3Njk4MTpzcF9hdGZfbmV4dDozMDAwMDA0NzE0NjgyMDI6OjA6Og&url=%2FLenovo-IdeaPad-Flex-5-2023-Touchscreen%2Fdp%2FB0BWSG8VDK%2Fref%3Dsr_1_49_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1691176981%26sr%3D8-49-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGZfbmV4dA%26psc%3D1",
+    "ImageURL": "https://m.media-amazon.com/images/I/718cys6JGoL._AC_UY218_.jpg 1x",
+    "Brand": "Lenovo",
+    "Rating": "4.2 out of 5 stars"
+  },
+  {
+    "Title": "Ruzava/Aocwei 16\"",
+    "Price": "$339.99",
+    "ProductURL": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NjgwMzUyMDAzMjQ3ODA6MTY5MTE3Njk4MTpzcF9hdGZfbmV4dDozMDAwMDM1NTg5NjQ1MDI6OjA6Og&url=%2FRuzava-Celeron-Windows-Cooling-Study-Blue%2Fdp%2FB0C43MJS7S%2Fref%3Dsr_1_50_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1691176981%26sr%3D8-50-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGZfbmV4dA%26psc%3D1",
+    "ImageURL": "https://m.media-amazon.com/images/I/81VmnEmOOPL._AC_UY218_.jpg 1x",
+    "Brand": "Ruzava/Aocwei",
+    "Rating": "4.4 out of 5 stars"
+  },
+  {
+    "Title": "Dell Inspiron 15 3000 Series 3511",
+    "Price": "$585.00",
+    "ProductURL": "https://www.amazon.com/Dell-Inspiron-3511-Touchscreen-i5-1135G7/dp/B0B29C364N/ref=sr_1_51?keywords=gaming+laptop&qid=1691176981&sr=8-51",
+    "ImageURL": "https://m.media-amazon.com/images/I/61KwCmF0bdL._AC_UY218_.jpg 1x",
+    "Brand": "Dell",
+    "Rating": "4.4 out of 5 stars"
+  },
+  {
+    "Title": "MSI Pulse GL66 15",
+    "Price": "$699.99",
+    "ProductURL": "https://www.amazon.com/MSI-i5-11400H-GeForce-Keyboard-Windows/dp/B0C5S4NPK7/ref=sr_1_52?keywords=gaming+laptop&qid=1691176981&sr=8-52",
+    "ImageURL": "https://m.media-amazon.com/images/I/51BnUyjcMPL._AC_UY218_.jpg 1x",
+    "Brand": "MSI",
+    "Rating": "3.5 out of 5 stars"
+  },
+  {
+    "Title": "MSI Katana 15 15.6\" 144Hz FHD",
+    "Price": "$1,424.99",
+    "ProductURL": "https://www.amazon.com/MSI-Katana-144Hz-Gaming-Laptop/dp/B0BT3FKZ3N/ref=sr_1_53?keywords=gaming+laptop&qid=1691176981&sr=8-53",
+    "ImageURL": "https://m.media-amazon.com/images/I/81K1NR+8WjL._AC_UY218_.jpg 1x",
+    "Brand": "MSI",
+    "Rating": "4.3 out of 5 stars"
+  },
+  {
+    "Title": "SGIN 17 Inch Windows 11",
+    "Price": "$459.99",
+    "ProductURL": "https://www.amazon.com/SGIN-Computer-Processor-Bluetooth-Expansion/dp/B0C7ZPGFFL/ref=sr_1_54?keywords=gaming+laptop&qid=1691176981&sr=8-54",
+    "ImageURL": "https://m.media-amazon.com/images/I/81PyN0vsT8L._AC_UY218_.jpg 1x",
+    "Brand": "SGIN",
+    "Rating": "4.7 out of 5 stars"
+  },
+  {
+    "Title": "Lenovo",
+    "Price": "$1,189.00",
+    "ProductURL": "https://www.amazon.com/Lenovo-IdeaPad-i7-12700H-Thunderbolt-Mousepad/dp/B0C33VY37K/ref=sr_1_55?keywords=gaming+laptop&qid=1691176981&sr=8-55",
+    "ImageURL": "https://m.media-amazon.com/images/I/71QHezPMwzL._AC_UY218_.jpg 1x",
+    "Brand": "Lenovo",
+    "Rating": "4.3 out of 5 stars"
+  },
+  {
+    "Title": "HP Newest Victus 15.6\" FHD 144 Hz",
+    "Price": "$741.50",
+    "ProductURL": "https://www.amazon.com/HP-i5-12450H-Processor-GeForce-Keyboard/dp/B0B7ZRCDVG/ref=sr_1_56?keywords=gaming+laptop&qid=1691176981&sr=8-56",
+    "ImageURL": "https://m.media-amazon.com/images/I/61C6zeRFXtL._AC_UY218_.jpg 1x",
+    "Brand": "HP",
+    "Rating": "4.3 out of 5 stars"
+  },
+  {
+    "Title": "15.6 inch",
+    "Price": "$383.16",
+    "ProductURL": "https://www.amazon.com/Fingerprint-Windows11-Processor-1920x1080-Keyboard/dp/B0BGY51WFL/ref=sr_1_57?keywords=gaming+laptop&qid=1691176981&sr=8-57",
+    "ImageURL": "https://m.media-amazon.com/images/I/71YVOmemQzL._AC_UY218_.jpg 1x",
+    "Brand": "15.6",
+    "Rating": "N/A"
+  },
+  {
+    "Title": "ASUS Chromebook Vibe C55 Flip, Cloud",
+    "Price": "$699.99",
+    "ProductURL": "https://www.amazon.com/ASUS-Chromebook-i5-1135G7-Processor-CX5501FEA-AS562T/dp/B0BSP4ZMGB/ref=sr_1_58?keywords=gaming+laptop&qid=1691176981&sr=8-58",
+    "ImageURL": "https://m.media-amazon.com/images/I/61+1SWHs9uL._AC_UY218_.jpg 1x",
+    "Brand": "ASUS",
+    "Rating": "3.4 out of 5 stars"
+  },
+  {
+    "Title": "Ruzava/Aocwei 14\"",
+    "Price": "$999.99",
+    "ProductURL": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NjgwMzUyMDAzMjQ3ODA6MTY5MTE3Njk4MTpzcF9tdGY6MzAwMDI1NDE0NjY0NzAyOjowOjo&url=%2FRuzava-Windows-Cooling-Support-Study-Blue%2Fdp%2FB0B3HMT65Z%2Fref%3Dsr_1_59_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1691176981%26sr%3D8-59-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1",
+    "ImageURL": "https://m.media-amazon.com/images/I/81MXmu5pABL._AC_UY218_.jpg 1x",
+    "Brand": "Ruzava/Aocwei",
+    "Rating": "N/A"
+  },
+  {
+    "Title": "WAKST 15.6'' Windows 11",
+    "Price": "$349.99",
+    "ProductURL": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NjgwMzUyMDAzMjQ3ODA6MTY5MTE3Njk4MTpzcF9tdGY6MzAwMDIzMTY0MTMyNDAyOjowOjo&url=%2FWindows-1920x1080-Supports-Expansion-Notebook%2Fdp%2FB0C52WKQG7%2Fref%3Dsr_1_60_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1691176981%26sr%3D8-60-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1",
+    "ImageURL": "https://m.media-amazon.com/images/I/71CRKRalP8L._AC_UY218_.jpg 1x",
+    "Brand": "WAKST",
+    "Rating": "N/A"
+  },
+  {
+    "Title": "ASUS Vivobook Go 15 L510 Thin & Light",
+    "Price": "$218.50",
+    "ProductURL": "https://www.amazon.com/ASUS-Vivobook-Processor-Microsoft-L510MA-AS02/dp/B09SVR5VD4/ref=sr_1_61?keywords=gaming+laptop&qid=1691176981&sr=8-61",
+    "ImageURL": "https://m.media-amazon.com/images/I/713WJz2wXLL._AC_UY218_.jpg 1x",
+    "Brand": "ASUS",
+    "Rating": "4.1 out of 5 stars"
+  },
+  {
+    "Title": "Acer Predator Helios 16",
+    "Price": "$1,632.50",
+    "ProductURL": "https://www.amazon.com/Predator-i7-13700HX-GeForce-Display-PH16-71-74UU/dp/B0BXMNSXDD/ref=sr_1_62?keywords=gaming+laptop&qid=1691176981&sr=8-62",
+    "ImageURL": "https://m.media-amazon.com/images/I/71SuqDPUeUL._AC_UY218_.jpg 1x",
+    "Brand": "Acer",
+    "Rating": "4.5 out of 5 stars"
+  },
+  {
+    "Title": "Acer Aspire 3 A314-23P-R3QA Slim",
+    "Price": "$384.99",
+    "ProductURL": "https://www.amazon.com/A314-23P-R3QA-Display-Quad-Core-Processor-Graphics/dp/B0BSLVF5F5/ref=sr_1_63?keywords=gaming+laptop&qid=1691176981&sr=8-63",
+    "ImageURL": "https://m.media-amazon.com/images/I/81EWtB70npL._AC_UY218_.jpg 1x",
+    "Brand": "Acer",
+    "Rating": "4.5 out of 5 stars"
+  },
+  {
+    "Title": "jumper",
+    "Price": "$369.99",
+    "ProductURL": "https://www.amazon.com/jumper-Laptop-Inch-FHD-Display/dp/B0C23CCNJM/ref=sr_1_64?keywords=gaming+laptop&qid=1691176981&sr=8-64",
+    "ImageURL": "https://m.media-amazon.com/images/I/81d2r5VCPkL._AC_UY218_.jpg 1x",
+    "Brand": "jumper",
+    "Rating": "4.4 out of 5 stars"
+  },
+  {
+    "Title": "MSI Pulse GL76 17.3\" FHD 144Hz",
+    "Price": "$1,250.00",
+    "ProductURL": "https://www.amazon.com/MSI-Pulse-GL76-Gaming-Laptop/dp/B09RB9YMN6/ref=sr_1_65?keywords=gaming+laptop&qid=1691176981&sr=8-65",
+    "ImageURL": "https://m.media-amazon.com/images/I/71vmKSCyraL._AC_UY218_.jpg 1x",
+    "Brand": "MSI",
+    "Rating": "3.9 out of 5 stars"
+  },
+  {
+    "Title": "Lenovo Legion Pro 7i Gen 8 16\"",
+    "Price": "$2,659.95",
+    "ProductURL": "https://www.amazon.com/Lenovo-Legion-Gaming-Laptop-Model/dp/B0C15JCCY2/ref=sr_1_66?keywords=gaming+laptop&qid=1691176981&sr=8-66",
+    "ImageURL": "https://m.media-amazon.com/images/I/317cmBol4lL._AC_UY218_.jpg 1x",
+    "Brand": "Lenovo",
+    "Rating": "5.0 out of 5 stars"
+  },
+  {
+    "Title": "Logitech M510 Wireless Mouse-Black (Renewed)",
+    "Price": "$21.98",
+    "ProductURL": "https://www.amazon.com/Logitech-Wireless-Mouse-Certified-Refurbished/dp/B011DG5B4E/ref=sr_1_67?keywords=gaming+laptop&qid=1691176981&sr=8-67",
+    "ImageURL": "https://m.media-amazon.com/images/I/71zdnBGqJFL._AC_UY218_.jpg 1x",
+    "Brand": "Logitech",
+    "Rating": "4.5 out of 5 stars"
+  },
+  {
+    "Title": "CHUWI CoreBook XPro",
+    "Price": "$499.99",
+    "ProductURL": "https://www.amazon.com/CHUWI-Processor-1920X1080-CoreBook-Xpro/dp/B09C235SHT/ref=sr_1_68?keywords=gaming+laptop&qid=1691176981&sr=8-68",
+    "ImageURL": "https://m.media-amazon.com/images/I/71uWuADEDOL._AC_UY218_.jpg 1x",
+    "Brand": "CHUWI",
+    "Rating": "4.1 out of 5 stars"
+  },
+  {
+    "Title": "HP ProBook 445 G8 14\"",
+    "Price": "$399.00",
+    "ProductURL": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NjgwMzUyMDAzMjQ3ODA6MTY5MTE3Njk4MTpzcF9idGY6MjAwMTI5NjU2MTUwODk4OjowOjo&url=%2FHP-ProBook-Laptop-1920x1080-Renewed%2Fdp%2FB0BQSDSF71%2Fref%3Dsr_1_69_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1691176981%26sr%3D8-69-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1",
+    "ImageURL": "https://m.media-amazon.com/images/I/61K33QhV03L._AC_UY218_.jpg 1x",
+    "Brand": "HP",
+    "Rating": "4.8 out of 5 stars"
+  },
+  {
+    "Title": "Sager 2023 NP6271C",
+    "Price": "$1,379.00",
+    "ProductURL": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NjgwMzUyMDAzMjQ3ODA6MTY5MTE3Njk4MTpzcF9idGY6MjAwMTY2MjQxNzg2Njk4OjowOjo&url=%2FSager-NP6271C-Gaming-Laptop-i9-13900H%2Fdp%2FB0C4QTDYKP%2Fref%3Dsr_1_70_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1691176981%26sr%3D8-70-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1",
+    "ImageURL": "https://m.media-amazon.com/images/I/71+bTw0I5dL._AC_UY218_.jpg 1x",
+    "Brand": "Sager",
+    "Rating": "N/A"
+  },
+  {
+    "Title": "2022 Newest HP 17t",
+    "Price": "$829.00",
+    "ProductURL": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1MzU3MTYzMTc4NzU1OTQ5OjE2OTExNzY5ODk6c3BfYXRmX25leHQ6MzAwMDIzMjE3ODY2MjAyOjowOjo&url=%2FHP-i5-10210U-Processor-Wireless-AC-Keyboard%2Fdp%2FB08PW4WYNN%2Fref%3Dsr_1_65_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1691176989%26sr%3D8-65-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGZfbmV4dA%26psc%3D1",
+    "ImageURL": "https://m.media-amazon.com/images/I/61eIpWxM7lL._AC_UY218_.jpg 1x",
+    "Brand": "2022",
+    "Rating": "4.5 out of 5 stars"
+  },
+  {
+    "Title": "ASUS Vivobook 17X",
+    "Price": "$879.99",
+    "ProductURL": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1MzU3MTYzMTc4NzU1OTQ5OjE2OTExNzY5ODk6c3BfYXRmX25leHQ6MzAwMDIyNjU5NTAzODAyOjowOjo&url=%2FASUS-Vivobook-Display-i9-13900H-K3704VA-DS96%2Fdp%2FB0BZQP9BWB%2Fref%3Dsr_1_66_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1691176989%26sr%3D8-66-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGZfbmV4dA%26psc%3D1",
+    "ImageURL": "https://m.media-amazon.com/images/I/71HQoR+26gL._AC_UY218_.jpg 1x",
+    "Brand": "ASUS",
+    "Rating": "5.0 out of 5 stars"
+  },
+  {
+    "Title": "ACEMAGIC",
+    "Price": "$339.99",
+    "ProductURL": "https://www.amazon.com/ACEMAGIC-Quad-Core-Windows-Computers-2%C3%97Speaker/dp/B0C3RLXX6N/ref=sr_1_67?keywords=gaming+laptop&qid=1691176989&sr=8-67",
+    "ImageURL": "https://m.media-amazon.com/images/I/71p5PLcaJCL._AC_UY218_.jpg 1x",
+    "Brand": "ACEMAGIC",
+    "Rating": "4.0 out of 5 stars"
+  },
+  {
+    "Title": "Dell G15",
+    "Price": "$994.99",
+    "ProductURL": "https://www.amazon.com/Dell-G15-Display-Processor-Keyboard/dp/B09L2S4W7P/ref=sr_1_68?keywords=gaming+laptop&qid=1691176989&sr=8-68",
+    "ImageURL": "https://m.media-amazon.com/images/I/71JwoRhczwL._AC_UY218_.jpg 1x",
+    "Brand": "Dell",
+    "Rating": "4.3 out of 5 stars"
+  },
+  {
+    "Title": "Lenovo Ideapad 1 15 HD",
+    "Price": "$399.99",
+    "ProductURL": "https://www.amazon.com/Lenovo-Ideapad-Ethernet-Bluetooth-Light-Weight/dp/B0BYD5GZNC/ref=sr_1_69?keywords=gaming+laptop&qid=1691176989&sr=8-69",
+    "ImageURL": "https://m.media-amazon.com/images/I/813flQWRNTL._AC_UY218_.jpg 1x",
+    "Brand": "Lenovo",
+    "Rating": "4.4 out of 5 stars"
+  },
+  {
+    "Title": "SGIN",
+    "Price": "$259.99",
+    "ProductURL": "https://www.amazon.com/SGIN-Windows-Celeron-Expandable-Storage/dp/B0BZS78JSQ/ref=sr_1_70?keywords=gaming+laptop&qid=1691176989&sr=8-70",
+    "ImageURL": "https://m.media-amazon.com/images/I/71Qp4khq-1L._AC_UY218_.jpg 1x",
+    "Brand": "SGIN",
+    "Rating": "4.3 out of 5 stars"
+  },
+  {
+    "Title": "Razer Blade 14",
+    "Price": "$1,999.99",
+    "ProductURL": "https://www.amazon.com/Razer-Blade-Gaming-Laptop-Ultra-Thin/dp/B0B6QHC4QR/ref=sr_1_71?keywords=gaming+laptop&qid=1691176989&sr=8-71",
+    "ImageURL": "https://m.media-amazon.com/images/I/61aqCQE6TXL._AC_UY218_.jpg 1x",
+    "Brand": "Razer",
+    "Rating": "4.2 out of 5 stars"
+  },
+  {
+    "Title": "Lenovo Premium 14\"",
+    "Price": "$169.99",
+    "ProductURL": "https://www.amazon.com/Lenovo-14-Laptop-Processor-Super-Fast/dp/B0CBQTXF2C/ref=sr_1_72?keywords=gaming+laptop&qid=1691176989&sr=8-72",
+    "ImageURL": "https://m.media-amazon.com/images/I/61ulke3pioL._AC_UY218_.jpg 1x",
+    "Brand": "Lenovo",
+    "Rating": "5.0 out of 5 stars"
+  },
+  {
+    "Title": "Acer Chromebook 516 GE 16\" QHD Chromebook (Intel 12th Gen Core i5-1240P, 8GB RAM, 256GB PCIe SSD, RGB Backlit) Cloud",
+    "Price": "$599.99",
+    "ProductURL": "https://www.amazon.com/Acer-Chromebook-516-GE-i5-1240P/dp/B0C42WYCJ9/ref=sr_1_73?keywords=gaming+laptop&qid=1691176989&sr=8-73",
+    "ImageURL": "https://m.media-amazon.com/images/I/61kaN7rZAaL._AC_UY218_.jpg 1x",
+    "Brand": "Acer",
+    "Rating": "3.2 out of 5 stars"
+  },
+  {
+    "Title": "ASUS 2023 TUF FA706",
+    "Price": "N/A",
+    "ProductURL": "https://www.amazon.com/ASUS-Gaming-Display-GeForce-Windows/dp/B0C9YM8S3L/ref=sr_1_74?keywords=gaming+laptop&qid=1691176989&sr=8-74",
+    "ImageURL": "https://m.media-amazon.com/images/I/71QDBfF0fGL._AC_UY218_.jpg 1x",
+    "Brand": "ASUS",
+    "Rating": "5.0 out of 5 stars"
+  },
+  {
+    "Title": "CHUWI GemiBook XPro 14.1''",
+    "Price": "$269.00",
+    "ProductURL": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1MzU3MTYzMTc4NzU1OTQ5OjE2OTExNzY5ODk6c3BfbXRmOjIwMDE2NTE0MjQ3NzE5ODo6MDo6&url=%2FCHUWI-CoreBook-Pro-Processor-2160x1440%2Fdp%2FB08MW1QKVM%2Fref%3Dsr_1_75_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1691176989%26sr%3D8-75-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1",
+    "ImageURL": "https://m.media-amazon.com/images/I/61ROfd67pyL._AC_UY218_.jpg 1x",
+    "Brand": "CHUWI",
+    "Rating": "4.0 out of 5 stars"
+  },
+  {
+    "Title": "TECURS LED",
+    "Price": "$47.99",
+    "ProductURL": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1MzU3MTYzMTc4NzU1OTQ5OjE2OTExNzY5ODk6c3BfbXRmOjMwMDAyMzQyNDU5NDkwMjo6MDo6&url=%2FTECURS-Streaming-Recording-Microphone-Condenser%2Fdp%2FB0C13Z8V99%2Fref%3Dsr_1_76_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1691176989%26sr%3D8-76-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1",
+    "ImageURL": "https://m.media-amazon.com/images/I/712D+yVYhGL._AC_UY218_.jpg 1x",
+    "Brand": "TECURS",
+    "Rating": "4.6 out of 5 stars"
+  },
+  {
+    "Title": "ASUS Vivobook 17X",
+    "Price": "$879.99",
+    "ProductURL": "https://www.amazon.com/ASUS-Vivobook-Display-i9-13900H-K3704VA-DS96/dp/B0BZQP9BWB/ref=sr_1_77?keywords=gaming+laptop&qid=1691176989&sr=8-77",
+    "ImageURL": "https://m.media-amazon.com/images/I/71HQoR+26gL._AC_UY218_.jpg 1x",
+    "Brand": "ASUS",
+    "Rating": "5.0 out of 5 stars"
+  },
+  {
+    "Title": "Lenovo 14\" FHD Ideapad 3 Newest",
+    "Price": "$399.00",
+    "ProductURL": "https://www.amazon.com/Lenovo-Ideapad-Processor-Bluetooth-Accessories/dp/B0BZ8DVWKC/ref=sr_1_78?keywords=gaming+laptop&qid=1691176989&sr=8-78",
+    "ImageURL": "https://m.media-amazon.com/images/I/61sXthzzgzL._AC_UY218_.jpg 1x",
+    "Brand": "Lenovo",
+    "Rating": "4.4 out of 5 stars"
+  },
+  {
+    "Title": "ASUS TUF Dash 15 (2022)",
+    "Price": "$1,162.00",
+    "ProductURL": "https://www.amazon.com/ASUS-Display-i7-12650H-Thunderbolt-FX517ZM-AS73/dp/B09RMH9B6F/ref=sr_1_79?keywords=gaming+laptop&qid=1691176989&sr=8-79",
+    "ImageURL": "https://m.media-amazon.com/images/I/613Lr-05aSL._AC_UY218_.jpg 1x",
+    "Brand": "ASUS",
+    "Rating": "4.5 out of 5 stars"
+  },
+  {
+    "Title": "HP 2022 Stream 14\" HD BrightView",
+    "Price": "$259.00",
+    "ProductURL": "https://www.amazon.com/HP-Stream-Computer-Processor-Bluetooth/dp/B08KSKT862/ref=sr_1_80?keywords=gaming+laptop&qid=1691176989&sr=8-80",
+    "ImageURL": "https://m.media-amazon.com/images/I/612adx9kCML._AC_UY218_.jpg 1x",
+    "Brand": "HP",
+    "Rating": "4.3 out of 5 stars"
+  },
+  {
+    "Title": "Acer Nitro 5",
+    "Price": "$1,299.99",
+    "ProductURL": "https://www.amazon.com/i7-12650H-GeForce-Display-Backlit-AN515-58-781P/dp/B0C5RSZ6N2/ref=sr_1_81?keywords=gaming+laptop&qid=1691176989&sr=8-81",
+    "ImageURL": "https://m.media-amazon.com/images/I/71Wkd-uyvnL._AC_UY218_.jpg 1x",
+    "Brand": "Acer",
+    "Rating": "4.6 out of 5 stars"
+  },
+  {
+    "Title": "Acer Aspire Vero 14\" FHD Slim",
+    "Price": "$587.99",
+    "ProductURL": "https://www.amazon.com/Acer-i7-1255U-Thunderbolt4-Fingerprint-Bluetooth/dp/B0C4L36B29/ref=sr_1_82?keywords=gaming+laptop&qid=1691176989&sr=8-82",
+    "ImageURL": "https://m.media-amazon.com/images/I/61z6-5Toa8L._AC_UY218_.jpg 1x",
+    "Brand": "Acer",
+    "Rating": "4.3 out of 5 stars"
+  },
+  {
+    "Title": "Sager 2023 NP6271C",
+    "Price": "$1,379.00",
+    "ProductURL": "https://www.amazon.com/Sager-NP6271C-Gaming-Laptop-i9-13900H/dp/B0C4QTDYKP/ref=sr_1_83?keywords=gaming+laptop&qid=1691176989&sr=8-83",
+    "ImageURL": "https://m.media-amazon.com/images/I/71+bTw0I5dL._AC_UY218_.jpg 1x",
+    "Brand": "Sager",
+    "Rating": "N/A"
+  },
+  {
+    "Title": "14.1'' Windows 11",
+    "Price": "$179.99",
+    "ProductURL": "https://www.amazon.com/Windows-Celeron-1920x1080-Notebook-Computer/dp/B0C3HR6XDK/ref=sr_1_84?keywords=gaming+laptop&qid=1691176989&sr=8-84",
+    "ImageURL": "https://m.media-amazon.com/images/I/71p0Av3ykwL._AC_UY218_.jpg 1x",
+    "Brand": "14.1''",
+    "Rating": "5.0 out of 5 stars"
+  },
+  {
+    "Title": "MSI Thin GF63 15.6\" 144Hz",
+    "Price": "$894.99",
+    "ProductURL": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1MzU3MTYzMTc4NzU1OTQ5OjE2OTExNzY5ODk6c3BfYnRmOjIwMDEzODE3ODQxMDA5ODo6MDo6&url=%2FMSI-Thin-144Hz-Gaming-Laptop%2Fdp%2FB0BT3CD75G%2Fref%3Dsr_1_85_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1691176989%26sr%3D8-85-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1",
+    "ImageURL": "https://m.media-amazon.com/images/I/71JqyTBiXrL._AC_UY218_.jpg 1x",
+    "Brand": "MSI",
+    "Rating": "4.3 out of 5 stars"
+  },
+  {
+    "Title": "BiTECOOL Windows 11",
+    "Price": "$299.00",
+    "ProductURL": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1MzU3MTYzMTc4NzU1OTQ5OjE2OTExNzY5ODk6c3BfYnRmOjMwMDAxMzMwMDYyMjMwMjo6MDo6&url=%2FBiTECOOL-Windows-Display-Computer-Keyboard%2Fdp%2FB0BGXRFVX3%2Fref%3Dsr_1_86_sspa%3Fkeywords%3Dgaming%2Blaptop%26qid%3D1691176989%26sr%3D8-86-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1",
+    "ImageURL": "https://m.media-amazon.com/images/I/71HvsD-yPIL._AC_UY218_.jpg 1x",
+    "Brand": "BiTECOOL",
+    "Rating": "3.1 out of 5 stars"
+  }
+]
